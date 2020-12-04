@@ -1,4 +1,3 @@
-# ihc
-Personal project with HTML and CSS
-A minimalist website presenting a paper I wrote in 2019.
-To view the site, visit: https://iankhou.github.io/ihc/.
+# fiction-v-nonfiction
+A simple site using HTML and CSS to present a paper I wrote for my Comparative Literature class at Dartmouth College.
+Inspired by my close friend Ian Hou.
