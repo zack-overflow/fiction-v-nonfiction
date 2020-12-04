@@ -54,7 +54,7 @@ img.reduced {
 }
 
 .parallax {
-  background-image: url("ihc-background.JPG");
+  background-image: url("blurry-line.jpg");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ img.reduced {
   font-family: "Open Sans";
   font-weight: 400;
   font-size: 1.5vw;
-  color: white;
+  color: black;
 }
 
 #byline {
@@ -106,12 +106,13 @@ p {
   font-size: 24px;
 }
 
-#quote1 {
+.quote {
   margin-top: 5px;
   margin-bottom: 10px;
   margin-left: 10%;
   padding-left: 5px;
   border-left: 5px solid grey;
+  color: #919191;
 }
 
 #qed {
